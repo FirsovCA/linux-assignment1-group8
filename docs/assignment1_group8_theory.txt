@@ -1,0 +1,6 @@
+Question 1.
+Difference between Linux kernel and shell: The Linux kernel is the main part of the system that controls the computer’s hardware and memory. The shell is what you type commands into to tell the kernel what to do.
+Question 2.
+Absolute path vs relative path: An absolute path shows the full location of a file, like /home/user/docs/file.txt. A relative path shows the file location from where you are now, like docs/file.txt if you’re in /home/user/.
+Question 3.
+Core components of Linux: Linux has the kernel (controls hardware), the shell (lets you type commands), system libraries (help programs run), and utilities (basic tools and commands).
